@@ -1,0 +1,11 @@
+{
+    "disableAutoUpdate": true,
+    "name": "reaper-script",
+    "author": "Bernkastel",
+    "description": "==",
+    "version": "1.0",
+    "options": {
+        "niceName": "reaper-script",
+        "guiName": "reaper-script"
+    }
+}
