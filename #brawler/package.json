@@ -1,0 +1,8 @@
+{
+  "name": "Brawler",
+  "version": "1.0.0",
+  "description": "Brawler Ping Fix",
+  "author": "Bernkastel",
+  "license": "ISC",
+  "main": "index.js"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Slayer",
+  "version": "1.0.0",
+  "description": "Slayer Ping Fix",
+  "author": "Bernkastel",
+  "license": "ISC",
+  "main": "index.js"
+}

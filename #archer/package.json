@@ -1,0 +1,8 @@
+{
+  "name": "Archer",
+  "version": "1.0.0",
+  "description": "Archer Ping Fix",
+  "author": "Bernkastel",
+  "license": "ISC",
+  "main": "index.js"
+}
