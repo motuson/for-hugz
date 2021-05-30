@@ -1,0 +1,11 @@
+count targets
+offset targets
+
+uint64 source
+byte end # 1 on projectile end | 0 if it keeps going
+float x
+float y
+float z
+array targets
+- uint64 target
+- uint32 unk1
